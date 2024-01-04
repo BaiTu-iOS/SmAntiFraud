@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'SmAntiFraud'
-  s.version          = '3.8.0_build1'
+  s.version          = '3.8.0.build1'
   s.summary          = '数美SDK.'
   s.description      = <<-DESC
 数美SDK.
